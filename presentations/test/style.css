@@ -1,0 +1,18 @@
+.reveal .leftcol {
+    float: left;
+    width: 48%;
+}
+
+.reveal .rightcol {
+    float: right;
+    width: 48%;
+}
+
+.reveal .valign-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.reveal .valign p {
+    height: 100%;
+}
