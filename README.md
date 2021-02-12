@@ -2,4 +2,4 @@
 Github Pages static site
 
 ## Presentations
-[Test Presentation](https://dennietemolder.github.io/presentations/presentation.html)
+[Test Presentation](https://dennietemolder.github.io/presentations/test/presentation.html)
